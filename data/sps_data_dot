@@ -1,0 +1,16 @@
+DOT_read+='DOT1,0,0,0,0,0,0,';
+DOT_read+='DOT2,1,1,0,0,0,0,';
+DOT_read+='DOT3,0,0,0,0,0,0,';
+DOT_read+='DOT4,0,0,0,0,0,0,';
+DOT_read+='DOT5,0,0,0,0,0,0,';
+DOT_read+='DOT6,0,0,0,0,0,0,';
+DOT_read+='DOT7,0,0,0,0,0,0,';
+DOT_read+='DOT8,0,0,0,0,0,0,';
+DOT_read+='DOT9,0,0,0,0,0,0,';
+DOT_read+='DOT10,0,0,0,0,0,0,';
+DOT_read+='DOT11,0,0,0,0,0,0,';
+DOT_read+='DOT12,0,0,0,0,0,0,';
+DOT_read+='DOT13,0,0,0,0,0,0,';
+DOT_read+='DOT14,0,0,0,0,0,0,';
+DOT_read+='DOT15,0,0,0,0,0,0,';
+DOT_read+='DOT16,0,0,0,0,0,0,';

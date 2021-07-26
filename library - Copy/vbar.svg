@@ -1,0 +1,9 @@
+<svg width="1280" height="960" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 960">
+    <g class="ctype:vbar;datapoint:AIN1;color:#000000;backcolor:#808080;minvalue:0;maxvalue:100;showvalue:true;colorrule1minvalue:0;colorrule1maxvalue:20;colorrule1color:#00FF00;colorrule2minvalue:20;colorrule2maxvalue:40;colorrule2color:#0000FF;colorrule3minvalue:40;colorrule3maxvalue:60;colorrule3color:#FFFF00;">
+        <rect class="back" fill="#808080" stroke-width="1.5" x="22.28571448057921" y="0.20150156797010244" width="7.652795067984255" height="49.056378640924706" stroke="#000"></rect>
+        <rect class="bar" fill="#008000" stroke-width="1.5" x="22.28571448057921" y="24.729690327026773" width="7.652795067984255" height="24.528189320462353" fill-opacity="1" stroke="#000"></rect>
+        <text class="minvalue" fill="#000000" stroke-width="0" x="-1464.0670821103508" y="-562.8511962085294" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve" transform="matrix(0.09811275728184943,0,0,0.09811275728184943,175.0247319544134,57.50928045961637) " stroke="#000">0</text>
+        <text class="maxvalue" fill="#000000" stroke-width="0" x="-1464.0670821103508" y="-88.3511962085293" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve" transform="matrix(0.09811275728184943,0,0,0.09811275728184943,175.0247319544134,57.50928045961637) " stroke="#000">100</text>
+        <text class="text" fill="#000000" stroke-width="0" x="-1545.1139571103508" y="-88.3511962085293" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve" transform="matrix(0.09811275728184943,0,0,0.09811275728184943,175.0247319544134,57.50928045961637) " stroke="#000">50</text>
+    </g>
+</svg>

@@ -1,0 +1,90 @@
+<svg width="1280" height="960" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="962" width="1282" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>null</title>
+  <g stroke="null" id="svg_229">
+   <rect stroke="#000" x="210.5" id="svg_231" height="36" width="558.99998" y="294.43237" stroke-width="1.5" fill="#b28080"/>
+   <rect stroke="#000" id="svg_230" height="24" width="553.45749" y="299.43237" x="213.66714" stroke-width="1.5" fill="#b28080"/>
+  </g>
+  <g stroke="null" id="svg_226">
+   <rect stroke="#000" x="62.5" id="svg_228" height="36" width="131.99999" y="294.43237" stroke-width="1.5" fill="#afafc9"/>
+   <rect stroke="#000" id="svg_227" height="24" width="130.69121" y="299.43237" x="63.24788" stroke-width="1.5" fill="#afafc9"/>
+  </g>
+  <g stroke="null" id="svg_212">
+   <g stroke="null" id="svg_217" class="ctype:graphic;datapoint:null;datapoint1:null;action:None;colorrule1minvalue:0;colorrule1maxvalue:20;colorrule1color:#00FF00;colorrule2minvalue:20;colorrule2maxvalue:40;colorrule2color:#0000FF;colorrule3minvalue:40;colorrule3maxvalue:60;colorrule3color:#FFFF00;blinkcolorruleminvalue:60;blinkcolorrulemaxvalue:100;blinkcolorrulecolor:#FF0000;">
+    <rect stroke="#545454" fill="#fff" stroke-width="2.5" x="182.64439" y="279.43796" width="29.65712" height="58.24392" id="svg_225"/>
+    <path stroke="#545454" fill="#FF0000" stroke-width="2.5" d="m182.64438,337.68188c0,0 3.49991,-3.85721 3.49991,-3.85721c0,0 22.28889,-50.91522 22.28889,-50.91522c0,0 3.86832,-3.47148 3.86832,-3.47148c0,0 0,58.24391 0,58.24391c0,0 -29.65712,0 -29.65712,0l0,0z" class="color" id="svg_224"/>
+    <path stroke="#545454" fill="#ff5656" stroke-width="2.5" d="m212.3015,279.43797c0,0 -3.4999,3.85721 -3.4999,3.85721c0,0 -22.2889,50.91522 -22.2889,50.91522c0,0 -3.86832,3.47148 -3.86832,3.47148c0,0 0,-58.24391 0,-58.24391c0,0 29.65712,0 29.65712,0z" id="svg_223"/>
+    <rect stroke="#545454" fill="none" stroke-width="2.5" x="186.3285" y="283.29517" width="22.28889" height="50.72236" id="svg_222"/>
+    <line stroke="#545454" fill="none" stroke-width="2.5" stroke-opacity="null" x1="186.22802" y1="283.15434" x2="182.5439" y2="279.29712" id="svg_221" stroke-linejoin="null" stroke-linecap="null"/>
+    <line stroke="#545454" fill="none" stroke-width="2.5" stroke-opacity="null" x1="208.3327" y1="333.87669" x2="212.20103" y2="337.54104" id="svg_220" stroke-linejoin="null" stroke-linecap="null"/>
+    <line stroke="#545454" fill="none" stroke-width="2.5" stroke-opacity="null" x1="191.47787" y1="284.6008" x2="191.47787" y2="290.19376" id="svg_219" stroke-linejoin="null" stroke-linecap="null"/>
+    <line stroke="#545454" fill="none" stroke-width="2.5" stroke-opacity="null" x1="188.8069" y1="287.39727" x2="194.14886" y2="287.39727" id="svg_218" stroke-linejoin="null" stroke-linecap="null"/>
+   </g>
+   <line stroke="#ff0000" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_216" y2="513.32332" x2="188.64631" y1="341.03418" x1="186.45221" stroke-width="1.5" fill="none"/>
+   <line stroke="#0000ff" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_215" y2="516.76908" x2="208.39374" y1="341.03416" x1="206.19967" stroke-width="1.5" fill="none"/>
+   <path stroke="#ff0000" id="svg_214" d="m191.74235,543.47132l-1.67549,-4.91693l0,9.50663l0,9.50661l-1.03721,0l-1.03721,0l0,-9.39755c0,-5.16864 -0.05257,-9.39754 -0.11682,-9.39754c-0.06426,0 -0.81823,2.05763 -1.67549,4.57249l-1.55868,4.57249l0,-4.22638l0,-4.22637l2.19621,-6.45462l2.19619,-6.45463l2.192,6.46701l2.19201,6.467l0,4.44936l0,4.44936l-1.67551,-4.91693l0,0z" stroke-width="1.5" fill="#ff0000"/>
+   <path stroke="#0000ff" id="svg_213" d="m209.35513,540.65175l1.67549,4.91691l0,-9.50663l0,-9.5066l1.0372,0l1.03722,0l0,9.39755c0,5.16865 0.05257,9.39754 0.11682,9.39754c0.06426,0 0.81823,-2.05763 1.67549,-4.57248l1.55868,-4.5725l0,4.22638l0,4.22638l-2.19621,6.45461l-2.1962,6.45463l-2.19199,-6.46701l-2.19201,-6.467l0,-4.44935l0,-4.44937l1.67551,4.91694l0,0z" stroke-width="1.5" fill="#0000ff"/>
+  </g>
+  <g stroke="null" id="svg_209">
+   <rect stroke="#000" x="63.50002" id="svg_211" height="36" width="706.99996" y="94.43237" stroke-width="1.5" fill="#ffff00"/>
+   <rect stroke="#000" id="svg_210" height="24" width="699.99005" y="99.43237" x="67.50568" stroke-width="1.5" fill="#ffff00"/>
+  </g>
+  <g id="svg_206">
+   <rect stroke="#808080" id="svg_208" height="350.00003" width="209.00003" y="42.43237" x="766.49996" stroke-width="1.5" fill="#808080"/>
+   <rect id="svg_207" height="337" width="194" y="50.43238" x="774.49997" stroke-width="1.5" stroke="#000" fill="#fff"/>
+  </g>
+  <g stroke="null" id="svg_198" class="ctype:graphic;datapoint:DOT1;datapoint1:null;action:None;colorrule1minvalue:0;colorrule1maxvalue:1;colorrule1color:#afb6af;colorrule2minvalue:1;colorrule2maxvalue:2;colorrule2color:#00ff62;colorrule3minvalue:2;colorrule3maxvalue:3;colorrule3color:#FFFF00;blinkcolorruleminvalue:60;blinkcolorrulemaxvalue:100;blinkcolorrulecolor:#FF0000;">
+   <ellipse stroke="#545454" fill="#b2b2b2" stroke-width="0" stroke-opacity="null" cx="488.99998" cy="312.43238" id="svg_205" rx="23.36868" ry="23.36868"/>
+   <ellipse stroke="#545454" fill="#007f00" stroke-width="0" stroke-opacity="null" cx="488.99998" cy="312.43238" id="svg_204" rx="19.41745" ry="19.41745"/>
+   <g stroke="null" id="svg_199">
+    <ellipse stroke="#545454" fill="#00ff62" stroke-width="3" stroke-opacity="null" fill-opacity="null" cx="551.18176" cy="524.34388" id="svg_203" rx="42.24989" ry="42.24989" transform="matrix(0.45156372607079526,0.0023524495197373347,-0.0023524495197373347,0.45156372607079526,241.3397767495351,74.36107510872412) " class="color"/>
+    <ellipse stroke="#545454" fill="none" stroke-width="3" stroke-opacity="null" fill-opacity="null" cx="551.18176" cy="524.34388" id="svg_202" rx="51.99986" ry="51.99986" transform="matrix(0.45156372607079526,0.0023524495197373347,-0.0023524495197373347,0.45156372607079526,241.3397767495351,74.36107510872412) "/>
+    <line stroke="#545454" fill="none" stroke-width="3" stroke-opacity="null" fill-opacity="null" x1="472.26774" y1="303.25148" x2="499.62138" y2="296.84614" id="svg_201" stroke-linejoin="null" stroke-linecap="null"/>
+    <line stroke="#545454" fill="none" stroke-width="3" stroke-opacity="null" fill-opacity="null" x1="471.95021" y1="320.86124" x2="499.90946" y2="327.77582" id="svg_200" stroke-linejoin="null" stroke-linecap="null"/>
+   </g>
+  </g>
+  <g transform="rotate(90 84.00003051757814,120.432373046875) " stroke="null" id="svg_193" class="ctype:graphic;datapoint:AIN1;datapoint1:AIN2;action:None;colorrule1minvalue:0;colorrule1maxvalue:20;colorrule1color:#00FF00;colorrule2minvalue:20;colorrule2maxvalue:40;colorrule2color:#0000FF;colorrule3minvalue:40;colorrule3maxvalue:60;colorrule3color:#FFFF00;blinkcolorruleminvalue:60;blinkcolorrulemaxvalue:100;blinkcolorrulecolor:#FF0000;">
+   <line stroke="#565656" fill="none" stroke-width="4.5" stroke-opacity="null" fill-opacity="null" x1="77.82788" y1="124.00291" x2="108.0349" y2="106.25629" id="svg_197" stroke-linejoin="null" stroke-linecap="null"/>
+   <g stroke="null" id="svg_194">
+    <line stroke="#565656" fill="none" stroke-width="4.5" stroke-opacity="null" x1="59.96515" y1="113.84369" x2="95.93075" y2="134.60844" id="svg_196" stroke-linejoin="null" stroke-linecap="null"/>
+    <ellipse stroke="#565656" fill="transparent" stroke-width="4.5" stroke-opacity="null" cx="77.94795" cy="124.22607" id="svg_195" rx="2.45432" ry="2.45432" class="color"/>
+   </g>
+  </g>
+  <g transform="rotate(90 83.00003051757808,316.43237304687506) " stroke="null" id="svg_188" class="ctype:graphic;datapoint:AIN1;datapoint1:AIN2;action:None;colorrule1minvalue:0;colorrule1maxvalue:20;colorrule1color:#00FF00;colorrule2minvalue:20;colorrule2maxvalue:40;colorrule2color:#0000FF;colorrule3minvalue:40;colorrule3maxvalue:60;colorrule3color:#FFFF00;blinkcolorruleminvalue:60;blinkcolorrulemaxvalue:100;blinkcolorrulecolor:#FF0000;">
+   <line stroke="#565656" fill="none" stroke-width="4.5" stroke-opacity="null" fill-opacity="null" x1="76.82788" y1="320.00291" x2="107.0349" y2="302.25629" id="svg_192" stroke-linejoin="null" stroke-linecap="null"/>
+   <g stroke="null" id="svg_189">
+    <line stroke="#565656" fill="none" stroke-width="4.5" stroke-opacity="null" x1="58.96515" y1="309.84369" x2="94.93075" y2="330.60844" id="svg_191" stroke-linejoin="null" stroke-linecap="null"/>
+    <ellipse stroke="#565656" fill="transparent" stroke-width="4.5" stroke-opacity="null" cx="76.94795" cy="320.22607" id="svg_190" rx="2.45432" ry="2.45432" class="color"/>
+   </g>
+  </g>
+  <image xlink:href="data:octet/stream;base64,R0lGODlhFAAcALMAAE40KnRBK21INH1uZmVXTjg5OoNHK7BkMsxyMud9M5dkR4pWNIp9daSem////9jT0SH5BAkAAA4ALAAAAAAUABwAAAj4AB00YECwIMEGDRwoXKjwgQADECNCDCAgIUOFDCIC2Mhxo4AHFx0MCGAAgAEEKA+oRLCggMWFIwMAWJCg5oIABxIsAEDg4kgDNGuyFABAqAKfJHOiVLCAqICaRxn+PICAAIEBBBaUzLnAYIOpCAha1Qogp4ACaNFO1WmVgACiCBIYaGt1bYIDVokagIpUZs4DAhYsoIoAgACkBgTkrMk4AYLAiBc3bhwVZtLJkysrtIuZr9TLnT1bNiC5s2aRoEOf5mw6cmjRm1O3/kz6dYLTDB6Wxnz6wUgBcTsLDvmAQIGgkwsPCCmQwG7GFZkrbKCgunUFDEBeDAgAOw==" id="svg_187" height="28" width="20" y="135.43237" x="76"/>
+  <image transform="rotate(-1.014794945716858 85.00000000000637,348.43237304687517) " xlink:href="data:octet/stream;base64,R0lGODlhFAAcALMAAE40KnRBK21INH1uZmVXTjg5OoNHK7BkMsxyMud9M5dkR4pWNIp9daSem////9jT0SH5BAkAAA4ALAAAAAAUABwAAAj4AB00YECwIMEGDRwoXKjwgQADECNCDCAgIUOFDCIC2Mhxo4AHFx0MCGAAgAEEKA+oRLCggMWFIwMAWJCg5oIABxIsAEDg4kgDNGuyFABAqAKfJHOiVLCAqICaRxn+PICAAIEBBBaUzLnAYIOpCAha1Qogp4ACaNFO1WmVgACiCBIYaGt1bYIDVokagIpUZs4DAhYsoIoAgACkBgTkrMk4AYLAiBc3bhwVZtLJkysrtIuZr9TLnT1bNiC5s2aRoEOf5mw6cmjRm1O3/kz6dYLTDB6Wxnz6wUgBcTsLDvmAQIGgkwsPCCmQwG7GFZkrbKCgunUFDEBeDAgAOw==" id="svg_186" height="28" width="20" y="334.43237" x="75"/>
+  <image transform="rotate(180 215,457) " xlink:href="data:octet/stream;base64,R0lGODlhJgAaALMAADU0M0NDQ1BSVHZ2dmhpalxdXpaYmra3uq2urqCipdbX3MjHyd/h4/////b294aHhyH5BAkAAA0ALAAAAAAmABoAAAj+ABsIHEiwoMABDx4YSIAAwYGGCQwYeDDAoMWLAx8kOKCAgYMGDhgoOJDgAcaTBgds7OigpUiSFVHKFLjSo8uRCWbqfMDRZsiRJmU2fNDwJAKWNxEIRUCggNMCRC8mQPozp8WYTAdwVKBgwYMCSi0u8MlgwdWEDRAUmMq1bVcCYQse8AiSwYGCGhOUbKBSwcK2Bx50FRCX4MSEBggyPMD4gAGmXAMAEIwAAACuaAsaICCgs4DEBxa45VrSQGTLBAAIuDwSLMHAAQoQ4CxgLoPbuBmo3RqAwAAAA363DUC8eGwBCB9wTtCyefPdkQcomCo8snHinJMvB+n844EBphWnBJDOtfoCwq8NCJDdtMCB7s8hiyevoHqCmIYfeC6QOHdupQRwBF5bm3HlmkEJBRdUaKNNl1YBojVYX2IGGQAeAhZS2MBijVGoVniAERCUQQVcaGEBeOkV0UBMIRdcU4URNECJj52I30DJFTRUURjFZuKMAVx0o04NFOBjjUCiSCRKAByJIZAALHmSZE6eSKWUF1lWJZRRYllQkwEI4JtCyhlpWZcEBQQAOw==" id="svg_185" height="26" width="38" y="444" x="196"/>
+  <g transform="rotate(180 487,112.432373046875) " stroke="null" id="svg_175" class="ctype:graphic;datapoint:DOT2;datapoint1:null;action:None;colorrule1minvalue:0;colorrule1maxvalue:1;colorrule1color:#afb6af;colorrule2minvalue:1;colorrule2maxvalue:2;colorrule2color:#00ff62;colorrule3minvalue:2;colorrule3maxvalue:3;colorrule3color:#FFFF00;blinkcolorruleminvalue:60;blinkcolorrulemaxvalue:100;blinkcolorrulecolor:#FF0000;">
+   <ellipse stroke="#545454" fill="#b2b2b2" stroke-width="0" stroke-opacity="null" cx="486.99998" cy="112.43238" id="svg_182" rx="23.36868" ry="23.36868"/>
+   <ellipse stroke="#545454" fill="#007f00" stroke-width="0" stroke-opacity="null" cx="486.99998" cy="112.43238" id="svg_181" rx="19.41745" ry="19.41745"/>
+   <g stroke="null" id="svg_176">
+    <ellipse stroke="#545454" fill="#00ff62" stroke-width="3" stroke-opacity="null" fill-opacity="null" cx="544.44555" cy="81.4736" id="svg_180" rx="42.24989" ry="42.24989" transform="matrix(0.45156372607079526,0.0023524495197373347,-0.0023524495197373347,0.45156372607079526,241.3397767495351,74.36107510872412) " class="color"/>
+    <ellipse stroke="#545454" fill="none" stroke-width="3" stroke-opacity="null" fill-opacity="null" cx="544.44555" cy="81.4736" id="svg_179" rx="51.99986" ry="51.99986" transform="matrix(0.45156372607079526,0.0023524495197373347,-0.0023524495197373347,0.45156372607079526,241.3397767495351,74.36107510872412) "/>
+    <line stroke="#545454" fill="none" stroke-width="3" stroke-opacity="null" fill-opacity="null" x1="470.26774" y1="103.25148" x2="497.62138" y2="96.84614" id="svg_178" stroke-linejoin="null" stroke-linecap="null"/>
+    <line stroke="#545454" fill="none" stroke-width="3" stroke-opacity="null" fill-opacity="null" x1="469.95021" y1="120.86124" x2="497.90946" y2="127.77582" id="svg_177" stroke-linejoin="null" stroke-linecap="null"/>
+   </g>
+  </g>
+  <g id="svg_237">
+   <rect x="245" opacity="0.58" id="svg_233" height="24" width="29" y="447" stroke-width="1.5" stroke="#000" fill="#ffff00"/>
+   <g stroke="null" id="svg_183" class="ctype:data;datapoint:M1;color:#0000FF;backcolor:#008000;action:None;">
+    <text stroke="#000" id="svg_184" transform="matrix(-0.43092986386517923,0,0,0.26316798787229995,-71.3139088448258,304.5471078115304) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="78" y="609.37804" x="-790.08796" stroke-width="0" fill="#0000FF">0</text>
+   </g>
+   <rect id="svg_234" width="10" y="468" x="254.5" stroke-width="1.5" stroke="#000" fill="#ffff00"/>
+  </g>
+ </g>
+</svg>

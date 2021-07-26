@@ -1,0 +1,227 @@
+/* //!!!!!!!!!! */
+
+.tool_svg {
+    height: 40px;
+    width: 50px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.tool_svg:hover path {
+    fill: #ddd;
+}
+
+.tool_svg:hover text {
+    fill: #ddd;
+}
+
+.tool_svg:hover polygon {
+    fill: #ddd;
+}
+
+.filemanager_row {
+    position: relative;
+    background-color: #888;
+    height: 5.5%;
+    width: 100%;
+}
+
+.filemanager_row:hover {
+    background-color: #999;
+}
+
+.filemanager_nameinput {
+    height: 85%;
+    padding: 0;
+    margin: 0;
+    margin-left: 1%;
+    /* border: 0; */
+    /* border: 1px solid #ccc; */
+    border: none;
+    border-radius: 4px;
+    background-color: transparent;
+    width: 55%;
+    cursor: default;
+}
+
+.filemanager_nameinput:focus {
+    outline: none;
+}
+
+.filemanager_nameinput::selection {
+    color: #545454;
+    background: transparent;
+}
+
+.filemanager_info {
+    float: right;
+    width: 36%;
+    border: none;
+    background-color: transparent;
+}
+
+.filemanager_info::selection {
+    color: #545454;
+    background: transparent;
+}
+
+.filemanager_selected_row {
+    background-color: #ddd;
+}
+
+.filemanager_selected_row:hover {
+    background-color: #ddd;
+}
+
+.filemanager_mask {
+    opacity: 0.5;
+    background-color: #ccc;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+    z-index: 4;
+    display: none;
+}
+
+.libpreview_widget {
+    opacity: 1;
+    background-color: #ccc;
+    position: absolute;
+    width: 352px;
+    height: 352px;
+    top: 230px;
+    left: 444px;
+    z-index: 4;
+    display: none;
+}
+
+.filemanager_widget {
+    opacity: 1;
+    background-color: #333;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 800px;
+    height: 600px;
+    margin: -300px 0 0 -400px;
+    display: none;
+    z-index: 5;
+}
+
+.filemanager_rightmenu {
+    padding: 2px;
+    opacity: 1;
+    background-color: #333;
+    position: absolute;
+    width: 51px;
+    height: 30px;
+    display: none;
+    z-index: 6;
+}
+
+.filemanager_rightmenu_btn {
+    color: #FFF;
+    background-color: #666;
+}
+
+.filemanager_rightmenu_btn:hover {
+    background-color: #999;
+}
+
+.filemanager_title {
+    position: relative;
+    top: 1%;
+    /* left: 40%; */
+    text-align: center;
+    color: #FFF;
+}
+
+.filemanager_list {
+    background-color: #555;
+    position: absolute;
+    top: 16%;
+    bottom: 18%;
+    left: 3%;
+    right: 53%;
+    overflow: auto;
+}
+
+.filemanager_preview {
+    background-color: #fff;
+    position: absolute;
+    top: 29%;
+    bottom: 38%;
+    right: 3%;
+    left: 53%;
+}
+
+.little_preview {
+    background-color: #fff;
+    position: relative;
+    float: right;
+    margin-right: 10px;
+    width: 18px;
+    height: 18px;
+    /* top: 29%;
+    bottom: 38%;
+    right: 3%;
+    left: 53%; */
+}
+
+.filemanager_close {
+    position: absolute;
+    right: 3%;
+    top: 2%;
+}
+
+.filemanager_refresh {
+    position: absolute;
+    left: 3%;
+    top: 2%;
+}
+
+.filemanager_path {
+    display: none;
+    position: absolute;
+    left: 3%;
+    width: 93%;
+    top: 10%;
+}
+
+.filemanager_name {
+    position: absolute;
+    left: 3%;
+    width: 43%;
+    bottom: 12%;
+}
+
+.filemanager_load {
+    position: absolute;
+    left: 3%;
+    bottom: 4%;
+}
+
+.filemanager_upload {
+    position: absolute;
+    left: 20%;
+    bottom: 4%;
+}
+
+.filemanager_save {
+    background-color: #9b2335;
+    position: absolute;
+    right: 53%;
+    bottom: 4%;
+}
+
+.filemanager_html {
+    background-color: #9b2335;
+    position: absolute;
+    left: 18%;
+    bottom: 4%;
+}
+
+
+/* //!!!!!!!!!! */

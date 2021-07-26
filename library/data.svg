@@ -1,0 +1,6 @@
+<svg width="1280" height="960" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 960">
+    <g class="ctype:data;datapoint:AIN1;color:#000000;backcolor:#008000;action:None;">
+        <rect fill="#008000" stroke-width="1.5" x="0" y="17" width="50" height="21" stroke="#000"></rect>
+        <text fill="#000000" stroke-width="0" x="-1462.4454655045504" y="-807.5853686917576" font-size="78" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve" transform="matrix(0.28625587398359087,0,0,0.28625587398359087,420.2415577984867,267.64671237530393) " stroke="#000">Data</text>
+    </g>
+</svg>

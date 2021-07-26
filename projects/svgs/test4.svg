@@ -1,0 +1,26 @@
+<svg width="1280" height="960" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="1282" height="962" id="canvas_background" fill="#fff"/>
+  <g id="canvasGrid" display="none">
+   <rect id="svg_1" width="100%" height="100%" x="0" y="0" stroke-width="0" fill="url(#gridpattern)"/>
+  </g>
+ </g>
+ <g>
+  <title>M3</title>
+  <g stroke="null" class="ctype:data;datapoint:M1;color:#000000;backcolor:#008000;action:toggle();" id="svg_4">
+   <text stroke="#000" fill="#000000" stroke-width="0" x="-443.01339" y="146.20504" font-size="78" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve" transform="matrix(1.4528940642895958,0,0,1.4528940642895958,721.0798432302438,-65.46703110124827) " id="svg_5">1</text>
+  </g>
+  <g stroke="null" class="ctype:data;datapoint:M2;color:#000000;backcolor:#008000;action:toggle();" id="svg_3">
+   <text stroke="#000" fill="#000000" stroke-width="0" x="-329.21713" y="146.20504" font-size="78" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve" transform="matrix(1.4528940642895958,0,0,1.4528940642895958,721.0798432302438,-65.46703110124827) " id="svg_2">12</text>
+  </g>
+  <g stroke="null" class="ctype:data;datapoint:M3;color:#000000;backcolor:#008000;action:toggle();" id="svg_7">
+   <text stroke="#000" fill="#000000" stroke-width="0" x="-191.56035" y="142.53419" font-size="78" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve" transform="matrix(1.4528940642895958,0,0,1.4528940642895958,721.0798432302438,-65.46703110124827) " id="svg_6">0</text>
+  </g>
+  <g stroke="null" class="ctype:data;datapoint:M4;color:#000000;backcolor:#008000;action:toggle();" id="svg_9">
+   <text stroke="#000" fill="#000000" stroke-width="0" x="-74.09324" y="147.12275" font-size="78" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve" transform="matrix(1.4528940642895958,0,0,1.4528940642895958,721.0798432302438,-65.46703110124827) " id="svg_8">1387749</text>
+  </g>
+ </g>
+</svg>
